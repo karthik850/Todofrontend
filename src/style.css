@@ -1,0 +1,25 @@
+.navbar-brand{
+    font-size: 25px;
+    color:rgb(0, 0, 0) !important;
+    justify-content: center;
+    font-weight: 500;
+    font-family:cursive;
+}
+.navbar_color{
+    background-color: rgb(243, 243, 171);
+}
+.todoItem,.btn{
+    transition: 1s;
+    font-size: 20px !important;
+    font-family:cursive;
+}
+.todoItem:hover {
+    transform: scale(1.2);
+    box-shadow: 2px 2px 10px black;
+}
+.btn:hover{
+    transform: scale(1.1);
+}
+.changeButton{
+    width:90px !important;
+}
